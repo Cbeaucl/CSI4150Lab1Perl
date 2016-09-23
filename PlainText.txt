@@ -1,0 +1,13 @@
+
+
+What is encryption?
+
+Encryption is a technique for transforming information on a computer in such a way that it becomes unreadable. 
+So, even if someone is able to gain access to a computer with personal data on it, they likely won’t be able 
+to do anything with the data unless they have complicated, expensive software or the original data key.
+
+The basic function of encryption is essentially to translate normal text into ciphertext. 
+Encryption can help ensure that data doesn’t get read by the wrong people, but can also ensure that data isn’t 
+altered in transit, and verify the identity of the sender.
+
+
